@@ -15,7 +15,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - 
 author:
   # Biographic information
-  avatar           : "/images/headshot.PNG"
+  avatar           : "/images/headshot.png"
   name             : "Richard W. Frank"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer"
